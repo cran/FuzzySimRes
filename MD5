@@ -1,12 +1,12 @@
-26a6d1102a8960dce13ec7e099829c5e *DESCRIPTION
+c49e25c79db5f781dd440479f3da95e4 *DESCRIPTION
 c1e5b14b7087eae5555468b33caa757d *NAMESPACE
-c68b663636e1a4ce9d5fc0ecb5232d49 *NEWS.md
+ed5c4398938896426925ca8ef07dd563 *NEWS.md
 077c8a21123325ebc0b920a9b06a177f *R/AntitheticBootstrap.R
 d24e964b65704c71b2255ae1cabc419b *R/AverageStatisticEpistemicTest.R
 ea67f6f35f9ada39c62bdbdbc7de6d22 *R/CombinePValues.R
 f074765a9538e3f6315e32fc9cf68680 *R/EpistemicBootstrap.R
 b0520c13a3dfa31d9dd0411af514bbf2 *R/EpistemicCorrectedVariance.R
-5afead40c6f82575c2bcefe6b5edfeff *R/EpistemicEstimator.R
+6c16df4046f60baba5e72d08e5277765 *R/EpistemicEstimator.R
 a8034fdf36c6bc1f9c389a19098cf885 *R/EpistemicMean.R
 b9152bbdff3fe3a1a3a76a52feded18d *R/EpistemicTest.R
 c5a2305bc5cc3effbe9906171f423a4e *R/KSTestCriticalValue.R
@@ -23,7 +23,7 @@ a49aeebc4ae3ca46f2d942547debb028 *man/AverageStatisticEpistemicTest.Rd
 7b0bb8b490bb03179ef32ecf3d3bbea1 *man/CombinePValues.Rd
 8270a918b42717eae952bf9d8f32ad7c *man/EpistemicBootstrap.Rd
 b49910dee17ddb9b1a36baab29c71e65 *man/EpistemicCorrectedVariance.Rd
-ce9ac2691efd8f4bea3056f3e333aa0f *man/EpistemicEstimator.Rd
+07eebd8e2824522b70e087ae5b33172b *man/EpistemicEstimator.Rd
 f388db5cb26ab8fb751a6702dc896d6f *man/EpistemicMean.Rd
 e4d26db4d3c252af88cbe64f227f207e *man/EpistemicTest.Rd
 d9a4464b98ef8d040b8836c67ec8ae9e *man/KSTestCriticalValue.Rd

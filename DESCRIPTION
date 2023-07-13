@@ -1,7 +1,7 @@
 Package: FuzzySimRes
 Type: Package
 Title: Simulation and Resampling Methods for Epistemic Fuzzy Data
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("Maciej", "Romaniuk", email = "mroman@ibspan.waw.pl",
     role = c("cre","aut"),comment = c(ORCID = "0000-0001-9649-396X")),
@@ -27,7 +27,7 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 Depends: R (>= 3.5.0)
-Packaged: 2023-06-22 08:50:34 UTC; mroman
+Packaged: 2023-07-12 04:59:22 UTC; mroman
 Author: Maciej Romaniuk [cre, aut] (<https://orcid.org/0000-0001-9649-396X>),
   Przemyslaw Grzegorzewski [aut]
     (<https://orcid.org/0000-0002-5191-4123>),
@@ -36,4 +36,4 @@ Author: Maciej Romaniuk [cre, aut] (<https://orcid.org/0000-0001-9649-396X>),
     kolmim.c file)
 Maintainer: Maciej Romaniuk <mroman@ibspan.waw.pl>
 Repository: CRAN
-Date/Publication: 2023-06-22 12:42:49 UTC
+Date/Publication: 2023-07-13 00:00:06 UTC
