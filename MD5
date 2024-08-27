@@ -1,4 +1,4 @@
-afd616a88588b00a44432cbf841271eb *DESCRIPTION
+8c88d3d29f8746ea37ed8b4bc32e5b15 *DESCRIPTION
 c1e5b14b7087eae5555468b33caa757d *NAMESPACE
 6f5800d638b0225af14d823d327945ea *NEWS.md
 7690dc19b2875876826f29606afd2c42 *R/AntitheticBootstrap.R
@@ -34,8 +34,8 @@ d9a4464b98ef8d040b8836c67ec8ae9e *man/KSTestCriticalValue.Rd
 74dc53ffb9462a91ef746703b6a53b55 *man/controlChartData.Rd
 502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
 8290d2e9740414e315237f0d5d4024bb *src/Makevars
-84f8d736c93fdca371fdc2ac41eb5863 *src/kolmim.c
-821ab4d3a562ad73be3901f19ffa8de4 *src/ks.c
+6fe3d7fc18ef3926f8192950a935579e *src/kolmim.c
+e0d2e7cc376e5a4f0f13332e048605ae *src/ks.c
 654b7d0c5bdf2104d4c9d93930a3f19f *tests/testthat.R
 d374bb889b4ea0b175f0643004cc8566 *tests/testthat/_snaps/AntitheticBootstrap.md
 52215d130c0d5f92b54797a3ad0242c7 *tests/testthat/_snaps/AverageStatisticEpistemicTest.md
