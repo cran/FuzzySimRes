@@ -1,4 +1,4 @@
-0480cfee76bd90c6795e5840725de685 *DESCRIPTION
+029e2abfd75db3bc7737ec9da2caff72 *DESCRIPTION
 c1e5b14b7087eae5555468b33caa757d *NAMESPACE
 6f5800d638b0225af14d823d327945ea *NEWS.md
 6e7790514e08ebf403e5af7d88012aae *R/AntitheticBootstrap.R
@@ -14,10 +14,11 @@ c5a2305bc5cc3effbe9906171f423a4e *R/KSTestCriticalValue.R
 5a85eaff2518ac879d2702acd95178ca *R/ResamplingStatisticEpistemicTest.R
 db3114407f3dfc9868896ccf0bf5a5cb *R/SimulateFuzzyNumber.R
 3980b9c8d16b62f92368de3223e61357 *R/SimulateSample.R
-5d7a010a6ea66f726cff6166bfe96442 *R/data.R
+32f605ff52a75c3b5424fb8fd46ff0dd *R/data.R
 f32b890e7e910783e6722221dacd5ba7 *R/utils.R
-fff5e3267b3e81bf403d3d86e3730981 *README.md
-ed530cab0af53df246c4648b3152b741 *build/vignette.rds
+ca0f8309ee97b0ba3f95d400c6839be4 *README.md
+5fde603927535bbac28eb6dd025417c9 *build/vignette.rds
+eebd8cbc95e531e8f48b6f5e7f57438f *data/cheeseQualityData.rda
 454825648a77049222367dda1869c6ef *data/controlChartData.rda
 68d9cbd41d9f465685a1d76d82fda06c *inst/CITATION
 10c2ba5592231d2b03ca71448aa7cf16 *inst/doc/RJ-2024-016.pdf
@@ -35,6 +36,7 @@ bf17d75198a472247cec3dcf4e068a36 *man/MultiStatisticEpistemicTest.Rd
 de51e488e5b492da0029779e1b01860c *man/ResamplingStatisticEpistemicTest.Rd
 8df80e0f0627327c755b4b0bc8d47a9d *man/SimulateFuzzyNumber.Rd
 994b3e981bdfb07f6122be8b4bf07710 *man/SimulateSample.Rd
+560cc52a067d4458a6b7f02038968e90 *man/cheeseQualityData.Rd
 74dc53ffb9462a91ef746703b6a53b55 *man/controlChartData.Rd
 502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
 8290d2e9740414e315237f0d5d4024bb *src/Makevars
